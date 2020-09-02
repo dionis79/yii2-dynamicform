@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dionis79\\dynamicform\\": "src"
+            "wbraganca\\dynamicform\\": "src"
         }
     }
 }
